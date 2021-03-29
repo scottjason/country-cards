@@ -1,0 +1,13 @@
+.cards-container {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  width: 100%;
+  min-width: 280px;
+  max-width: 1440px;
+  height: auto;
+  margin: 85px auto 0 auto;
+  padding: 0 2rem;
+  box-sizing: border-box;
+}
